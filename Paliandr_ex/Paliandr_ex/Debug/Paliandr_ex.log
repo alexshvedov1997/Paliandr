@@ -1,0 +1,5 @@
+﻿  int_paliandr.cpp
+D:\С++ project\Paliandr\Paliandr_ex\Paliandr_ex\int_paliandr.cpp(16,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\С++ project\Paliandr\Paliandr_ex\Paliandr_ex\int_paliandr.cpp(31,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\С++ project\Paliandr\Paliandr_ex\Paliandr_ex\int_paliandr.cpp(32,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Paliandr_ex.vcxproj -> D:\С++ project\Paliandr\Paliandr_ex\Debug\Paliandr_ex.exe
